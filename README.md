@@ -1,1 +1,1 @@
-# Arkanoid_Sineus24
+# Arkanoid: Task for Sineus 2024
